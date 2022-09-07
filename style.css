@@ -165,6 +165,7 @@ transition: .7s;
     max-width: 256px;
     height: auto;
   
+  
 }
 
 /*Navbar*/
@@ -355,6 +356,7 @@ hr.star-dark {
     height: auto; */
     width: 356px;
     height: 216px;
+    margin: auto;
 
 }
 
@@ -372,7 +374,8 @@ hr.star-dark {
     background-color: #403f3f;
     opacity: 0;
     transition: opacity  0.7s; 
-    border-radius: 13px;  
+    border-radius: 13px; 
+    margin: auto;
    
 
 }
